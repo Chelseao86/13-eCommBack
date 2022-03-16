@@ -1,7 +1,7 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "13-eCommBack",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple backend for an e-commerce site, designed for Express.js API to use Sequelize to interact with a MySQL database with RESTful CRUD Operations.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "git+https://github.com/Chelseao86/13-eCommBack.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.3"
   },
