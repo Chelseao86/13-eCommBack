@@ -1,13 +1,13 @@
 
-# [Title]Challenge 13 - Object Relational Mapping
+# Challenge 13 - Object Relational Mapping
 ## e-Commerce Backend
 
 
-## [License]
+## License
 [![License: MIT](https://user-images.githubusercontent.com/74750414/157791111-8c5ad466-eda2-487e-bfdf-501637c9547c.svg)](https://user-images.githubusercontent.com/74750414/157791111-8c5ad466-eda2-487e-bfdf-501637c9547c.svg)
   
 
-## [Description]
+## Description
 Simple backend for an e-commerce site, designed for Express.js API to use Sequelize to interact with a MySQL database with RESTful CRUD Operations.
 
 
@@ -16,7 +16,8 @@ Simple backend for an e-commerce site, designed for Express.js API to use Sequel
    + [Installation](#installation)
    + [Tests/Examples](#testing) 
    + [Contribution](#contribution)
-   + [Links] (#links)
+   + [Links](#links)  
+   
 
 
 ## Usage
@@ -38,10 +39,9 @@ SO THAT my company can compete with other e-commerce companies
 
 
 ## Contribution
-Made by Chelsea O. Holmstead
+[GitHub Profile](https://github.com/Chelseao86)
 
 
 
 ## Contact
-GitHub: [GitHub Profile](https://github.com/Chelseao86)
-Email: [Email] (cholmstead@efficientlyyoursllc.com)
+[Email] (cholmstead@efficientlyyoursllc.com)
