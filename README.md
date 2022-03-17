@@ -39,7 +39,7 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Contribution
 Made by Chelsea O. Holmstead
-©️2021 Efficiently Yours, LLC
+
 
 
 ## Contact
